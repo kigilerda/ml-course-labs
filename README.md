@@ -1,2 +1,2 @@
 # ml-course-labs
-Лабораторные работы по курсу «Машинное обучение» (весна 2025).
+Laboratory works for the "Machine Learning" course (Spring 2025).
